@@ -1,0 +1,201 @@
+[
+    {
+        "title": "首页",
+        "icon": "iconfont icon-shouye",
+        "index": "index"
+    },
+    {
+        "title": "委托业务管理",
+        "icon": "iconfont icon-weituo",
+        "index": "entrust",
+        "subs": [
+            {
+                "title": "委托需求管理",
+                "index": "need"
+            },
+            {
+                "title": "委托订单管理",
+                "index": "order"
+            },
+            {
+                "title": "委托协议管理",
+                "index": "protocol"
+            }
+        ]
+    },
+    {
+        "title": "标的物管理",
+        "icon": "iconfont icon-biaode",
+        "index": "sign",
+        "subs": [
+            {
+                "title": "标的物管理",
+                "index": "sign"
+            }
+        ]
+    },
+    {
+        "title": "交易管理",
+        "icon": "iconfont icon-jiaoyi",
+        "index": "transaction",
+        "subs": [
+            {
+                "title": "竞价管理",
+                "index": "bidding"
+            },
+            {
+                "title": "订单管理",
+                "index": "indent"
+            }
+        ]
+    },
+    {
+        "title": "保证金管理",
+        "icon": "iconfont icon-baozhengjin",
+        "index": "earnestmoney",
+        "subs": [
+            {
+                "title": "保证金管理",
+                "index": "earnestmoney"
+            }
+        ]
+    },
+    {
+        "title": "财务管理",
+        "icon": "iconfont icon-caiwu",
+        "index": "finance",
+        "subs": [
+            {
+                "title": "结算单管理",
+                "index": "statement"
+            },
+            {
+                "title": "资金账户管理",
+                "index": "account"
+            },
+            {
+                "title": "发票管理",
+                "index": "invoice"
+            },
+            {
+                "title": "对账管理",
+                "index": "checking"
+            },
+            {
+                "title": "项目资金管理",
+                "index": "projectfund"
+            },
+            {
+                "title": "出入金明细",
+                "index": "detail"
+            }
+        ]
+    },
+    {
+        "title": "统计分析",
+        "icon": "iconfont icon-tongji",
+        "index": "statistics",
+        "subs": [
+            {
+                "title": "统计分析",
+                "index": "statistics"
+            }
+        ]
+    },
+    {
+        "title": "组织管理",
+        "icon": "iconfont icon-zuzhi",
+        "index": "organization",
+        "subs": [
+            {
+                "title": "委托方管理",
+                "index": "client"
+            },
+            {
+                "title": "角色权限管理",
+                "index": "authority"
+            },
+            {
+                "title": "人员管理",
+                "index": "zaccount"
+            }
+        ]
+    },
+    {
+        "title": "操作日志",
+        "icon": "iconfont icon-rizhi",
+        "index": "log",
+        "subs": [
+            {
+                "title": "操作日志",
+                "index": "log"
+            }
+        ]
+    }
+    ,
+    {
+        "title": "富文本",
+        "icon": "iconfont icon-rizhi",
+        "index": "fuwenben"
+    },
+    {
+        "icon": "el-icon-lx-home",
+        "index": "dashboard",
+        "title": "系统首页"
+    },
+    {
+        "icon": "el-icon-lx-cascades",
+        "index": "table",
+        "title": "基础表格"
+    },
+    {
+        "icon": "el-icon-lx-copy",
+        "index": "tabs",
+        "title": "tab选项卡"
+    },
+    {
+        "icon": "el-icon-lx-calendar",
+        "index": "3",
+        "title": "表单相关",
+        "subs": [
+            {
+                "index": "form",
+                "title": "基本表单"
+            },
+            {
+                "index": "upload",
+                "title": "文件上传"
+            }
+        ]
+    },
+    {
+        "icon": "el-icon-lx-emoji",
+        "index": "icon",
+        "title": "自定义图标"
+    },
+    {
+        "icon": "el-icon-lx-global",
+        "index": "i18n",
+        "title": "国际化功能"
+    },
+    {
+        "icon": "el-icon-lx-warn",
+        "index": "7",
+        "title": "错误处理",
+        "subs": [
+            {
+                "index": "permission",
+                "title": "权限测试"
+            },
+            {
+                "index": "404",
+                "title": "404页面"
+            }
+        ]
+    },
+    {
+        "icon": "el-icon-lx-redpacket_fill",
+        "index": "/donate",
+        "title": "支持作者"
+    }
+]
